@@ -148,9 +148,9 @@ export default function ReviewForm(props){
                         />
                     </div>
                     <div>              
-                        <button type="button" className="btn btn-secondary" onClick={handleClose}>Close</button>{'\u2003'}
+                        <button type="button" className="btn btn-secondary close" onClick={handleClose}>Close</button>{'\u2003'}
 
-                        <button type="button" className="btn btn-primary" onClick={clickSave}>Save changes</button>
+                        <button type="button" className="btn btn-primary save" onClick={clickSave}>Save</button>
                     </div>
                 </div>
             )}

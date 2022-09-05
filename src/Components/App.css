@@ -1,6 +1,9 @@
 body{
   background-color: rgb(108, 117, 125);
 }
+.btn:hover{
+    cursor: pointer;
+}
 .rev--buttons{
   display: block;
 }
@@ -10,7 +13,6 @@ body{
 .stars{
   font-family: sans-serif;
   padding: 10px 0;
-
 }
 .logo{
   margin:0 0 0 10px;
@@ -172,7 +174,6 @@ ul{
   }
 }  
 @media only screen and (max-width:400px){
-
   .card-img{
     width:240px;
     height: 340px;
@@ -194,8 +195,8 @@ ul{
     margin: 0 1.5rem .5rem 1.5rem;
     font-size: 12px;
   }
-  .btn:hover{
-    cursor: pointer;
+  .close, .save{
+    margin-top: 10px;
   }
   .card--text{
     padding: 20px;
