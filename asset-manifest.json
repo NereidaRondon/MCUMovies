@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MCUMovies/static/css/main.852423cc.css",
+    "main.js": "/MCUMovies/static/js/main.26cb0085.js",
+    "index.html": "/MCUMovies/index.html",
+    "main.852423cc.css.map": "/MCUMovies/static/css/main.852423cc.css.map",
+    "main.26cb0085.js.map": "/MCUMovies/static/js/main.26cb0085.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.852423cc.css",
+    "static/js/main.26cb0085.js"
+  ]
+}
