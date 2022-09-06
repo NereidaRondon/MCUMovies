@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/MCUMovies/static/css/main.852423cc.css",
-    "main.js": "/MCUMovies/static/js/main.26cb0085.js",
+    "main.css": "/MCUMovies/static/css/main.cdeeb554.css",
+    "main.js": "/MCUMovies/static/js/main.37f0d581.js",
     "index.html": "/MCUMovies/index.html",
-    "main.852423cc.css.map": "/MCUMovies/static/css/main.852423cc.css.map",
-    "main.26cb0085.js.map": "/MCUMovies/static/js/main.26cb0085.js.map"
+    "main.cdeeb554.css.map": "/MCUMovies/static/css/main.cdeeb554.css.map",
+    "main.37f0d581.js.map": "/MCUMovies/static/js/main.37f0d581.js.map"
   },
   "entrypoints": [
-    "static/css/main.852423cc.css",
-    "static/js/main.26cb0085.js"
+    "static/css/main.cdeeb554.css",
+    "static/js/main.37f0d581.js"
   ]
 }
