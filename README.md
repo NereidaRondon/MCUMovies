@@ -13,7 +13,10 @@ Movies have a Title, year released, synopsis on hover over the image. Users can 
 
 [Project GitHub Pages](https://nereidarondon.github.io/MCUMovies/)
 
+<img src='https://user-images.githubusercontent.com/97356401/196053702-021bfbc4-94b8-4579-8b50-438d15c0eb5c.png' width='300' height='300' alt='Bitmoji in popcorn'/>
+
 -------------------------------------------------
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nereidarondon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nereidarondon/" height="30" width="40" /></a> $~~~$
