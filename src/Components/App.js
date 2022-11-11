@@ -1,10 +1,9 @@
-//import logo from './logo.svg';
 import './App.css';
 import Nav from './Nav';
 import Hero from './Hero';
 import Movie from './Movie';
 import list from './MovieList';
-
+import Footer from './Footer';
 
 export default function App() {
   const movies = list.map(movie => {
@@ -23,7 +22,8 @@ export default function App() {
         <Hero />
         <section className="card--container">
           {movies}
-        </section> 
+        </section>
+        <Footer /> 
       </>
   );
 }
