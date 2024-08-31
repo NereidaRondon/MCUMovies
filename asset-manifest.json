@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/MCUMovies/static/css/main.67d3f5c5.css",
-    "main.js": "/MCUMovies/static/js/main.a47dadab.js",
+    "main.css": "/MCUMovies/static/css/main.f08b0a33.css",
+    "main.js": "/MCUMovies/static/js/main.e1c2d8a4.js",
     "static/media/githubcat.svg": "/MCUMovies/static/media/githubcat.cb8da8a244d292b3505d05d6c5a9562a.svg",
     "static/media/star.svg": "/MCUMovies/static/media/star.a5dbeab4792cef4d9defe687ccd292cc.svg",
     "index.html": "/MCUMovies/index.html",
     "static/media/linkedin.svg": "/MCUMovies/static/media/linkedin.8259b0d9422b332cc396206603fef145.svg",
     "static/media/folder.svg": "/MCUMovies/static/media/folder.19db9f392e1de34f1da39ff6212b0aea.svg",
     "static/media/envelope.svg": "/MCUMovies/static/media/envelope.80b4b2e0eb51c3b5e83f5dc6392f5c82.svg",
-    "main.67d3f5c5.css.map": "/MCUMovies/static/css/main.67d3f5c5.css.map",
-    "main.a47dadab.js.map": "/MCUMovies/static/js/main.a47dadab.js.map"
+    "main.f08b0a33.css.map": "/MCUMovies/static/css/main.f08b0a33.css.map",
+    "main.e1c2d8a4.js.map": "/MCUMovies/static/js/main.e1c2d8a4.js.map"
   },
   "entrypoints": [
-    "static/css/main.67d3f5c5.css",
-    "static/js/main.a47dadab.js"
+    "static/css/main.f08b0a33.css",
+    "static/js/main.e1c2d8a4.js"
   ]
 }
