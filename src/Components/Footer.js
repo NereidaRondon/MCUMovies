@@ -20,11 +20,11 @@ export default function Footer(){
             </div>
 
             <div className="linkedin logos">
-                <a href="https://www.linkedin.com/in/nereida-rondon-65403a22b/"><img src={lin} alt="Connect with me on Linkedin"></img></a>
+                <a href="https://www.linkedin.com/in/nereidarondon/"><img src={lin} alt="Connect with me on Linkedin"></img></a>
             </div>
 
             <div className="portfolio logos">
-                <a href="https://nereidarondon.com/index.html"><img src={portfolio} alt="View my Portfolio"></img></a>
+                <a href="https://nereidarondon.com"><img src={portfolio} alt="View my Portfolio"></img></a>
             </div>
 
             <div className="email logos">
