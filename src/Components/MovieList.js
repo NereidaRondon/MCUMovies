@@ -1,6 +1,6 @@
 const list = [
     {   id: 1,
-        img:"https://media.comicbook.com/2017/10/iron-man-movie-poster-marvel-cinematic-universe-1038878.jpg",
+        img:"https://upload.wikimedia.org/wikipedia/en/0/02/Iron_Man_%282008_film%29_poster.jpg",
         title:"Iron Man",
         year: 2008,
         info:"A billionaire industrialist and genius inventor, Tony Stark (Robert Downey Jr.), is conducting weapons tests overseas, but terrorists kidnap him to force him to build a devastating weapon. Instead, he builds an armored suit and upends his captors. Returning to America, Stark refines the suit and uses it to combat crime and terrorism.",
@@ -205,10 +205,38 @@ const list = [
     },
 
     {   id: 30,
-        img:"https://m.media-amazon.com/images/M/MV5BYjJlMjBmYzUtY2E3MC00OWI1LWE1YmUtOTdmM2IyMTQyZDBjXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+        img:"https://m.media-amazon.com/images/M/MV5BNTVjMzNlNGUtODQ2ZC00Nzc2LTgzYzktMGU2YzI1OTVlMDllXkEyXkFqcGdeQXVyNTA3MTU2MjE@._V1_.jpg",
         title:"Black Panther: Wakanda Forever",
         year:2022,
         info:"Queen Ramonda, Shuri, M'Baku, Okoye and the Dora Milaje fight to protect their nation from intervening world powers in the wake of King T'Challa's death. As the Wakandans strive to embrace their next chapter, the heroes must band together with Nakia and Everett Ross to forge a new path for their beloved kingdom.",
+    },
+
+    {   id: 31,
+        img:"https://lumiere-a.akamaihd.net/v1/images/pp_disneymovies_antmanquantumania_1721_94516e7a.jpeg",
+        title:"Ant-Man and the Wasp: Quantumania",
+        year:2023,
+        info:"Ant-Man hopes for some downtime, but his daughter Cassie accidentally pulls them, along with Hope and her parents, into the Quantum Realm. There, they discover a hidden civilization ruled by Kang the Conqueror, whom Janet Van Dyne unknowingly empowered. Kang demands Ant-Man's help to escape and conquer more universes, threatening Cassie to ensure compliance. The family unites to lead a rebellion against Kang and save the day, despite the complications of quantum and time manipulation.",
+    },
+
+    {   id: 32,
+        img:"https://image.tmdb.org/t/p/original/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
+        title:"Guardians of the Galaxy Vol. 3",
+        year:2023,
+        info:"The Guardians face off against Rocket's creator and torturer, The High Evolutionary, who is obsessed with creating a 'perfect world.' As Rocket fights for his life, Quill and the team, still grappling with the loss of Gamora, must save him with help from an alternate version of Gamora. The High Evolutionary enlists the Sovereign's aid by threatening their destruction, forcing Ayesha to send Adam Warlock after Rocket. The Guardians ultimately prevail, but the team decides to part ways, leaving Rocket to lead a new group of Guardians.",
+    },
+
+    {   id: 33,
+        img:"https://www.cineworld.co.uk/static/dam/jcr:f9918bed-1da5-4e30-82b1-60d7d5d55149/the%20marvels%20poster.jpg",
+        title:"The Marvels",
+        year:2023,
+        info:"Carol Danvers (Captain Marvel) has reclaimed her identity and taken revenge on the Kree's Supreme Intelligence, leading to a destabilized universe for which she feels responsible. During her duties, her powers become entangled with super-fan Kamala Khan (Ms. Marvel) and her estranged niece, Captain Monica Rambeau, a S.A.B.E.R. astronaut.",
+    },
+
+    {   id: 34,
+        img:"https://cdn.marvel.com/content/1x/dp3_1sht_digital_srgb_ka_swords_v5_resized.jpg",
+        title:"Deadpool & Wolverine",
+        year:2024,
+        info:"Deadpool joins the MCU, bringing Wolverine along as they dive into the multiverse. After using the time device from Deadpool 2, Deadpool catches the attention of the Time Variance Authority (TVA). He discovers that his timeline is deteriorating due to the death of its 'anchor being,' Wolverine. To save his timeline, Deadpool embarks on a quest through parallel universes, encountering familiar faces along the way. The movie's timeline is hard to pin down due to all the time travel, but it takes place after the current MCU events.",
     }
 ];
 export default list;
